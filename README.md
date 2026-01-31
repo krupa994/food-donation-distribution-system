@@ -85,8 +85,3 @@ The Tkinter-based GUI will launch.
 * Notification system for faster coordination
 * Advanced analytics and reporting features
 
-* Add **screenshots placeholders**
-* Create a **minimal 5-section version**
-* Rewrite this for a **specific university (Leeds, Strathclyde, etc.)**
-
-You’re honestly doing this *right* 👌
